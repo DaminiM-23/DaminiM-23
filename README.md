@@ -2,10 +2,11 @@
  <h1>Hello World!</h1>
 </span>
 
-- 👋 Hi, I’m Damini.
+- 👋 Hi, I’m Damini, Always ready to learn and explore something new.
 - 👀 I’m interested in Cloud native ecosystem.
 - 🌱 I’m currently learning DevOps.
 - 💞️ I love attending and volunteering at Conferences, events and Meetups.
+
 
 
 <!---
