@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Damini.
 - 👀 I’m interested in Cloud native ecosystem.
 - 🌱 I’m currently learning DevOps.
-- 💞️ I love attending and volunteering at Conferences, events and Meetups .
+- 💞️ I love attending and volunteering at Conferences, events and Meetups.
 
 
 <!---
