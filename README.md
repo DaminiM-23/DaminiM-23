@@ -1,5 +1,5 @@
 <span align="center">
- <h1>Hello World!</h1>
+ <h1>Hello!</h1>
 </span>
 
 - 👋 Hi, I’m Damini, Always ready to learn and explore something new.
