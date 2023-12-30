@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daminim-23&show_icons=true&locale=en" alt="daminim-23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daminim-23&" alt="daminim-23" /></p>
+<br>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
